@@ -55,7 +55,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\Pormo Vvip 50K dapat 9 grup total video puluhan ribu</b>",
+    "<b>Hello {first}\n\Pormo Vvip 50K dapat 9 grup total video puluhan ribu. Hub @panggilaja_m</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
